@@ -18,7 +18,8 @@ team_lysine = {"Vishnushiri": {"slack_name": "Siri", "E-Mail": "vishnushiri94@gm
                "Oluwatobiloba": {"slack_name": "Tobijayyy", "E-Mail": "tobijohnson01@gmail.com", "Hobbies": "Reading Manhwas", "Country": "Nigeria", "Discipline": "Cell Biology and Genetics", "Programming_language": "Python"},
                "Olayemi": {"slack_name": "bakky", "E-Mail": "bakareolayemistephen@gmail.com", "Hobbies": "Reading and Playing Video Games", "Country": "Nigeria", "Discipline": "Bioinformatics", "Programming_language": "Python"}
                }, 
-               "Johnson": {"slack_name": "Johnson", "E-mail": "nwekejj@gmail.com", "Hobbies": "Playing soccer", "Country": "Nigeria", "Discipline": "Biomedical Science/Epidemiology", "Programming_language": "Python"}
+               "Johnson": {"slack_name": "Johnson", "E-mail": "nwekejj@gmail.com", "Hobbies": "Playing soccer", "Country": "Nigeria", "Discipline": "Biomedical Science/Epidemiology", "Programming_language": "Python"},
+                "Ezinne": {"slack_name": "Ezinne", "E-Mail": "ezeezinne007@gmail.com", "Hobbies": "Watching Kdramas", "Country": "Nigeria", "Discipline": "Cell Biology and Genetics", "Programming_language": "Python"}
 
 # Printing using formatted string
 
@@ -36,4 +37,7 @@ print("***********************************************\n")
 
 print(f"Hello, I am Johnson. \n My slack name is {team_lysine["Johnson"]["slack_name"]}. \n I am from {team_lysine["Johnson"]["Country"]}. \n My current field of study is {
       team_lysine["Johnson"]["Discipline"]}. \n My preferred language to code is {team_lysine["Johnson"]["Programming_language"]}. \n I love doing {team_lysine["Johnson"]["Hobbies"]} during my free time. \n ")
+
+print(f"Hello, I am Ezinne. \n My slack name is {team_lysine["Ezinne"]["slack_name"]}. \n I am from {team_lysine["Ezinne"]["Country"]}. \n My current field of study is {
+      team_lysine["Ezinne"]["Discipline"]}. \n My preferred language to code is {team_lysine["Ezinne"]["Programming_language"]}. \n I love {team_lysine["Ezinne"]["Hobbies"]} during my free time. \n ")
 print("***********************************************\n")
