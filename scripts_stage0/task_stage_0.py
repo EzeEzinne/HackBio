@@ -37,6 +37,7 @@ print("***********************************************\n")
 
 print(f"Hello, I am Johnson. \n My slack name is {team_lysine["Johnson"]["slack_name"]}. \n I am from {team_lysine["Johnson"]["Country"]}. \n My current field of study is {
       team_lysine["Johnson"]["Discipline"]}. \n My preferred language to code is {team_lysine["Johnson"]["Programming_language"]}. \n I love doing {team_lysine["Johnson"]["Hobbies"]} during my free time. \n ")
+print("***********************************************\n")
 
 print(f"Hello, I am Ezinne. \n My slack name is {team_lysine["Ezinne"]["slack_name"]}. \n I am from {team_lysine["Ezinne"]["Country"]}. \n My current field of study is {
       team_lysine["Ezinne"]["Discipline"]}. \n My preferred language to code is {team_lysine["Ezinne"]["Programming_language"]}. \n I love {team_lysine["Ezinne"]["Hobbies"]} during my free time. \n ")
