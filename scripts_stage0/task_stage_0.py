@@ -10,7 +10,14 @@ Your discipline
 Your preferred programming language
 Don’t use functions, loops, conditionals or any complex concepts
 Your code should include a final print statement that prints the organized 
-output in a logical and understandable way
+output in a logical and understandable way.
+
+Git links of the team members
+siri: https://github.com/vishnushiri02
+bakky: https://github.com/bakkyola
+Ezinne Eze: https://github.com/EzeEzinne
+Johnson: https://github.com/Johnson3116
+Tobijayyy: https://github.com/Tobijayyy
 
 """
 # Storing information in the dictionary datastructure
